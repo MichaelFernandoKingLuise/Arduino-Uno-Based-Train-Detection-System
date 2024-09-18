@@ -1,1 +1,1 @@
-This repository contains code for a train detection system using an Arduino Uno, developed in C++. The system uses ultrasonic sensors for distance measurement, servos to control barriers, and incorporates buzzers and LEDs for audible and visual alarms.
+This repository contains code for a train detection system using an Arduino Uno, developed in C++. The system uses ultrasonic sensors for distance measurement, servos to control barriers, and incorporates buzzers and LEDs for audible and visual alarms
